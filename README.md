@@ -1,6 +1,7 @@
 ### [Advent of Code 2020](https://adventofcode.com/2020)
 
-[--- 𝙳𝚊𝚢 𝟷: 𝚁𝚎𝚙𝚘𝚛𝚝 𝚁𝚎𝚙𝚊𝚒𝚛 ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day1) ⭐️⭐️\
-[--- 𝙳𝚊𝚢 𝟸: 𝙿𝚊𝚜𝚜𝚠𝚘𝚛𝚍 𝙿𝚑𝚒𝚕𝚘𝚜𝚘𝚙𝚑𝚢 ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day2) ⭐️⭐️\
-[--- 𝙳𝚊𝚢 𝟹: 𝚃𝚘𝚋𝚘𝚐𝚐𝚊𝚗 𝚃𝚛𝚊𝚓𝚎𝚌𝚝𝚘𝚛𝚢 ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day3) ⭐️⭐️\
-[--- 𝙳𝚊𝚢 𝟺: 𝙿𝚊𝚜𝚜𝚙𝚘𝚛𝚝 𝙿𝚛𝚘𝚌𝚎𝚜𝚜𝚒𝚗𝚐 ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day4) ⭐️⭐️
+[--- Day 1: Report Repair ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day1)\
+[--- Day 2: Password Philosophy ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day2)\
+[--- Day 3: Toboggan Trajectory ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day3)\
+[--- Day 4: Passport Processing ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day4)\
+[--- Day 5: Binary Boarding ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day5)
