@@ -28,7 +28,6 @@ func gold(_ inputs: [Int]) -> Int {
 
 // Day 5 - Main
 freopen("input.txt", "r", stdin)
-var buffer = ""
 let input: [Int] = readInput {
     let binaryString = String($0.map { $0 == "F" || $0 == "L" ? "0" : "1" })
     return Int(binaryString, radix: 2)
