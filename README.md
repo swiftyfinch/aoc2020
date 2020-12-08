@@ -6,4 +6,5 @@
 [--- Day 4: Passport Processing ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day4)\
 [--- Day 5: Binary Boarding ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day5)\
 [--- Day 6: Custom Customs ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day6)\
-[--- Day 7: Handy Haversacks ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day7)
+[--- Day 7: Handy Haversacks ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day7)\
+[--- Day 8: Handheld Halting ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day8)
