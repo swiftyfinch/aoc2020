@@ -11,4 +11,5 @@
 [--- Day 9: Encoding Error ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day9)\
 [--- Day 10: Adapter Array ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day10)\
 [--- Day 11: Seating System ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day11)\
-[--- Day 12: Rain Risk ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day12)
+[--- Day 12: Rain Risk ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day12)\
+[--- Day 13: Shuttle Search ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day13)
