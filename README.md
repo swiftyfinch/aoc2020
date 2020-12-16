@@ -14,4 +14,5 @@
 [--- Day 12: Rain Risk ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day12)\
 [--- Day 13: Shuttle Search ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day13)\
 [--- Day 14: Docking Data ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day14)\
-[--- Day 15: Rambunctious Recitation ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day15)
+[--- Day 15: Rambunctious Recitation ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day15)\
+[--- Day 16: Ticket Translation ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day16)
