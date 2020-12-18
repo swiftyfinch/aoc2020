@@ -16,4 +16,5 @@
 [--- Day 14: Docking Data ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day14)\
 [--- Day 15: Rambunctious Recitation ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day15)\
 [--- Day 16: Ticket Translation ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day16)\
-[--- Day 17: Conway Cubes ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day17)
+[--- Day 17: Conway Cubes ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day17)\
+[--- Day 18: Operation Order ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day18)
