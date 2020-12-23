@@ -19,5 +19,7 @@
 [--- Day 17: Conway Cubes ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day17)\
 [--- Day 18: Operation Order ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day18)\
 [--- Day 19: Monster Messages ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day19)\
+`--- Day 20: Jurassic Jigsaw ---`\
 [--- Day 21: Allergen Assessment ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day21)\
+[--- Day 22: Crab Combat ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day22)\
 [--- Day 23: Crab Cups ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day23)
