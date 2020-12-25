@@ -23,4 +23,5 @@
 ⭐️⭐️ [--- Day 21: Allergen Assessment ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day21)\
 ⭐️⭐️ [--- Day 22: Crab Combat ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day22)\
 ⭐️⭐️ [--- Day 23: Crab Cups ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day23)\
-⭐️⭐️ [--- Day 24: Lobby Layout ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day24)
+⭐️⭐️ [--- Day 24: Lobby Layout ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day24)\
+⭐️⭐️ [--- Day 25: Combo Breaker ---](https://github.com/swiftyfinch/AdventOfCode2020/tree/main/Day25)
